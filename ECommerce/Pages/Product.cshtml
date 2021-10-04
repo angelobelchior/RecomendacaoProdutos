@@ -1,0 +1,57 @@
+@page "{id}"
+@model ProductModel
+@{
+    ViewData["Title"] = Model.Product.Name;
+}
+
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <ul class="list-group shadow">
+            <li class="list-group-item">
+                <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                    <div class="media-body order-2 order-lg-1">
+                        <h5 class="mt-0 font-weight-bold mb-2"> @Model.Product.Name</h5>
+                        <div class="d-flex align-items-center justify-content-between mt-1">
+                            <h6 class="font-weight-bold my-2">R$ @Model.Product.Price</h6>
+                        </div>
+                    </div>
+                    <img src="@Model.Product.Image" alt="@Model.Product.Name" width="200" class="ml-lg-5 order-1 order-lg-2">
+                </div>
+            </li>
+        </ul>
+        
+        @if (Model.Recommendations.Any())
+        {
+            <br /><br />
+            <div class="row text-center mb-5">
+                <div class="col-lg-12 mx-auto">
+                    <h3 class="display-6">Quem comprou um @Model.Product.Name, tembém comprou</h3>
+                </div>
+            </div>             
+            
+            <ul class="list-group shadow">
+
+                @foreach (var product in Model.Recommendations)
+                {
+                    <li class="list-group-item">
+                        <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                            <div class="media-body order-2 order-lg-1">
+                                <h5 class="mt-0 font-weight-bold mb-2">
+                                    <a href="/product/@product.Id">@product.Name</a>
+                                </h5>
+                                <div class="d-flex align-items-center justify-content-between mt-1">
+                                    <h6 class="font-weight-bold my-2">R$ @product.Price</h6>
+                                    <div class="list-inline small">
+                                        Score: @product.Score?.ToString("N2")
+                                    </div>                                  
+                                </div>
+                            </div>
+                            <img src="@product.Image" alt="@product.Name" width="200" class="ml-lg-5 order-1 order-lg-2">
+                        </div> 
+                    </li>                     
+                }
+            </ul>              
+        }
+      
+    </div>
+</div>

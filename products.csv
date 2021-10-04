@@ -1,0 +1,101 @@
+﻿Id;Nome;Foto;Preco
+1;Furadeira;https://a-static.mlcdn.com.br/618x463/furadeira-de-impacto-bosch-550w-velocidade-variavel-1-2-6-pecas-gsb-550-re/magazineluiza/221549700/4622a2f82403732c1c37d9ff902632f7.jpg;300
+2;Makita;https://cdn.leroymerlin.com.br/products/serra_circular_1650w_5007n_127v__110v__makita_89308303_34ff_300x300.jpg;480
+3;Jogo de lixa;https://cdn.leroymerlin.com.br/products/jogo_de_lixa_maquina_roto_orbital_drywall_g240_10_unidades_wbr_90067292_0001_600x600.jpg;48
+4;Chave de Fenda;https://img.lojadomecanico.com.br/IMAGENS/2/121/69962/Chave-de-Fenda-Cruzada-316-x-4-Pol-gedore-160-316-1.JPG;27
+5;Martelo;https://cosama.vteximg.com.br/arquivos/ids/159573-1000-1000/martelo_40200_018_18mm_unha_tramontina.jpg?v=636553475112570000;35
+6;Serrote;https://img.lojadomecanico.com.br/IMAGENS/31/274/20506/Serrote-Profissional-26-pol-tramontina-432420261.JPG;38
+7;Alicate;https://a-static.mlcdn.com.br/618x463/alicate-universal-6-polegadas-c-cabo-amarelo-preto-hsx-63-exbom/vcb/226366841/94759517c3c6bbfe8c83dd7b818b1520.jpg;24
+8;Broca;https://casadosoldador.com.br/files/products_images/6818/0101301-broca-aco-rapido-2,5mm-a100-dormer.jpg;18
+9;Disco de Corte;https://cdn.leroymerlin.com.br/products/disco_de_corte_para_aco_300x3,2x19,1_ar312_norton_89374411_0001_600x600.jpg;15
+10;Serra Tico Tico;https://a-static.mlcdn.com.br/618x463/serra-tico-tico-bosch-gst-650-std-450w-220v/qspcomercioeletronico/bos008/2b8382d1c057ddd7be0afc030dd52782.jpg;390
+11;Fita Métrica;https://istoe.com.br/wp-content/uploads/sites/14/2016/01/mi_21858511224272293.jpg;14
+12;Pilha Duracel;https://eletronicasantana.vteximg.com.br/arquivos/ids/59324-460-460/Pilha-Alcalina-Grande-D-com-2-Unidades-MN-1300-%E2%80%93-Duracell.jpg?v=636572269429530000;22
+13;Carro de controle Remoto;https://cf.shopee.com.br/file/cb52895adf9bea4954e952c3ca0993d5;180
+14;Bebe Ninar;https://cf.shopee.com.br/file/8d1a4053b86cd79393596c5aada5ac62;65
+15;Rádio Relógio;https://m.media-amazon.com/images/I/4106HhVmheS._AC_SY450_.jpg;35
+16;Carregador de Pilha;https://eletronicasantana.vteximg.com.br/arquivos/ids/64012-460-460/Carregador-de-Pilhas-AA.jpg?v=637167017810000000;25
+17;Controle Remoto Universal;https://m.media-amazon.com/images/I/41zP5om57DL._AC_SY450_.jpg;15
+18;Pen Drive;https://http2.mlstatic.com/D_NQ_NP_834922-MLA32121762817_092019-O.jpg;35
+19;HD Externo;https://images-americanas.b2w.io/produtos/01/00/img3/173305/9/173305945_1GG.jpg;235
+20;Notebook;https://images.samsung.com/is/image/samsung/br-notebook-style-s51-np760xbe-xw1br-np760xbe-xw1br-frontblack-165768722?$720_576_PNG$;3500
+21;Iphone;https://i.zst.com.br/thumbs/12/8/17/1297612682.jpg;6250
+22;Samsung Galaxy;https://a-static.mlcdn.com.br/1500x1500/smartphone-samsung-galaxy-a10s-32gb-azul-4g-2gb-ram-62-cam-dupla-selfie-8mp/magazineluiza/155568400/b128295b1b31c05f5a20a3229b18ac5a.jpg;3850
+23;Fone sem fio;https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1999069927408813928/products/211568.00-fone-ouvido-apple-airpods-wireless-charge.jpg&height=350&width=350&quality=1.0;845
+24;Microfone;https://lojaibyte.vteximg.com.br/arquivos/ids/209147-540-540/storm-microfone-de-lapela-com-cabo-1-5m-e-plug-p2-stereo-micn0003-43225-1.jpg?v=637411258024270000;130
+25;Carregador USB3;https://http2.mlstatic.com/D_NQ_NP_832651-MLB43388268573_092020-O.jpg;75
+26;Xiaomi Redmi;https://carrefourbr.vtexassets.com/arquivos/ids/11010690-800-auto?width=800&height=auto&aspect=true;2250
+27;Echo Dot;https://cdn.awsli.com.br/600x450/53/53761/produto/37834679/895ffc84f8.jpg;1200
+28;Kindle;https://img.olhardigital.com.br/wp-content/uploads/2021/07/Amazon-Kindle.jpg;600
+29;Webcam;https://www.qualitech.info/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/_/1_33_9.jpg;750
+30;Chromecast;https://novomundo.vteximg.com.br/arquivos/ids/2061172-500-500/image-065227f68b3f4178a8c2fbb1fa864cf0.jpg?v=637170384507130000;280
+31;Adaptador Iphone;https://static3.tcdn.com.br/img/img_prod/49613/cabo_adaptador_lelong_le_0155_lightning_para_p2_e_ios_femea_p_carregamento_5617_1_20200201105003.jpg;165
+32;Filtro de Linha;https://cdn.leroymerlin.com.br/products/filtro_de_linha_4_tomadas_bivolt_com_fusivel_e_chave_fiolux_1566798863_8162_600x600.jpg;45
+33;Adaptador de Tomada;https://m.media-amazon.com/images/I/61IyTxe4-iL._AC_SY450_.jpg;38
+34;Playstation 5;https://cf.shopee.com.br/file/aa19a0f4bf0123684d88f73132b81141_tn;6500
+35;The Last of Us - Game;https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png;325
+36;Controle Playstation;https://rukminim1.flixcart.com/image/416/416/k76ihe80/gamepad/controller/f/c/b/sony-dualshock-4-wireless-controller-glacier-white-for-original-imafphc4t7yzhyru.jpeg?q=70;500
+37;Cadeira Gamer;https://i.zst.com.br/thumbs/12/0/3a/1126648619.jpg;1950
+38;Suporte Notebook;https://5329028l.ha.azioncdn.net/img/2020/10/produto/635/1/large/kit-suporte-articulado-f80n-elg-bandeja-notebook-nbh-1-6.jpg;66
+39;Barbeador Elétrico;https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_BS_Beleza%20e%20Saude/WAS132341AZL/V2/WAS132341AZL_PRD_447_3.jpg;280
+40;Bicicleta;https://images-americanas.b2w.io/produtos/01/00/img/1237044/4/1237044458_1GG.jpg;1260
+41;Capacete Esportivo;https://m.media-amazon.com/images/I/516ImQriffL._SL500_.jpg;140
+42;Mouse;https://a-static.mlcdn.com.br/618x463/mouse-sem-fio-logitech-optico-1000dpi-3-botoes-m170-prata/magazineluiza/220817300/d5b36d0e263557ac670440915190c251.jpg;60
+43;Teclado;https://images-americanas.b2w.io/produtos/01/00/item/119158/1/119158155_1GG.jpg;75
+44;WD40;https://apiguana.com.br/media/catalog/product/cache/1/image/736x460/9df78eab33525d08d6e5fb8d27136e95/w/d/wd40-1.jpg;25
+45;Mesa para escritório;https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1753965815;1250
+46;Caixa Organizadora;https://images-americanas.b2w.io/produtos/01/00/img11/202949/9/202949927_1GG.jpg;35
+47;Poltrona confortável;https://www.victordecor.com.br/image/cache//produtos/6500/11-550x550.jpg;1850
+48;Sofá 4 lugares;https://images-americanas.b2w.io/produtos/01/00/img/34210/3/34210387_1GG.jpg;2680
+49;Jogo de Jantar;https://cf.shopee.com.br/file/ad3404f00ccd67a924fa0d0ba8c0618f;750
+50;Armário de Cozinha;https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1427787743;2450
+51;Lâmpada;https://static3.tcdn.com.br/img/img_prod/683033/lampada_led_brilia_439715_bulbo_e27_7w_6500k_200g_ip20_bivolt_6901_1_20190926152146.jpg;12
+52;Tomada;https://cdn.leroymerlin.com.br/products/conjunto_de_tomada_energia_10a_branco_habitat_fame_87779881_53d7_600x600.jpg;14
+53;Fio de Energia;https://cf.shopee.com.br/file/79ccc3b13410a47ba76ef5c3e0f7837c_tn;8
+54;Skate;https://i.pinimg.com/originals/fd/03/89/fd03895f597fc65f275c5b9184245b24.jpg;300
+55;Patins;https://http2.mlstatic.com/D_NQ_NP_750578-MLB43219793027_082020-O.jpg;280
+56;Berço portátil;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKuUk0zIxypd8mhiPJhfvDYZPmUzoUMZjP5eWxwM4NZsK2X-fj85UOeLbAMrAGv0UWInw&usqp=CAU;1500
+57;Cotonete;https://m.media-amazon.com/images/I/61MuO8uChZL._AC_SX425_.jpg;12
+58;Pasta de Dente;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfy27p0FxrDcJ7KJJZeg-CrzCl22_0xKTbwg&usqp=CAU;8
+59;Escova de Dente;https://www.mundopositivo.com.br/wp-content/uploads/2018/12/5-cuidados-para-manter-a-escova-de-dente-higienizada-1.jpg;25
+60;Shampoo;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvPhFG1UJxtZAKzKjc-Tla8urOnFLbbc1NTnXWJhHHzmQv9c8Lvzy9NReGdT0dZLObpk&usqp=CAU;14
+61;Condicionador;https://img.drogaraia.com.br/catalog/product/c/o/condicionador-pantene-cachos-hidra-vitaminados-400ml_2_.jpg?width=520&height=520&quality=50&type=resize;14
+62;Toalha de Mesa;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaInj7mDFHMPu0z3rZoBnyQM8NjWwXX7g2X2yzyY964-raqhXn-bgqTqmSfIc8gRzoUE&usqp=CAU;36
+63;Aspirador de Pó;https://www.worten.pt/i/f36004dac65834a485083f459e7d318d70ba47ec.jpg;1250
+64;Sabão em Pó;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqL7OyE0jOlfVRu9aUlox01echfOfOavTg3h5v1i6Dst7tU1IZcEb_wQ2vYeKsaBggYlU&usqp=CAU;25
+65;Detergente;https://elastobor.vteximg.com.br/arquivos/ids/186763-500-500/DETERGENTE-LIMPOL-CRISTAL-ANTI-ODOR-500ML.jpg?v=637202420798730000;6
+66;Sabonete;https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1465090843;600
+67;Papel Higiênico;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DxV6FtRCUsjZu4O4Px6DoqhkVNDr2SIxCmPbYUy6U2Y1kdJJdfT0C8f4XnAwSfHLONE&usqp=CAU;10
+68;Bombril;https://irmaosbrant.com.br/1217-large_default/la-de-aco-c8-bombril-60gr.jpg;2
+69;Esponja de Limpeza;https://images-americanas.b2w.io/produtos/01/00/img/1682865/8/1682865852_1GG.jpg;4
+70;Alcool em Gel;https://images.tcdn.com.br/img/img_prod/1036540/alcool_gel_70_antisseptico_p_maos_septpro_500ml_prolink_16255_1_7ab81aec2d4be15a325674c10ee61c88.jpg;4
+71;Água Sanitária;https://www.confianca.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/g/agua-sanitaria-candura-1-litro.jpg;6
+72;Coador de Café;https://cdn.dooca.store/504/products/247-1_640x640+fill_ffffff.jpg?v=1601349799&webp=0;4
+73;Pó de Café;https://imagens.gimba.com.br/objetosmidia/ExibirObjetoMidia?Id=85151&width=400&height=400;6
+74;Copo de Vidro;https://brincasa.vteximg.com.br/arquivos/ids/164489-800-800/46472.jpg?v=637473432846800000;8
+75;Fogão;https://m.media-amazon.com/images/I/51kmJQh+G+S._AC_SX522_.jpg;1890
+76;Máquina de Lavar;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjBkRW8ERa4fjvQxkCD6uFDtooE-POjQybzAlOWJ3T3bLVOwoAbpRiv2c1yCutNQ4X10&usqp=CAU;4000
+77;Lava Louças;https://http2.mlstatic.com/D_NQ_NP_982808-MLA43623158971_092020-O.jpg;3800
+78;Suggar;https://moveislinhares.vteximg.com.br/arquivos/ids/162265-800-800/106061-1.jpg?v=637347316273070000;2020
+79;Caderno;https://cdn.awsli.com.br/800x800/866/866032/produto/41216903/99b3f4fe78.jpg;8
+80;Caneta;https://assets.carimflex.com.br/img/produtos/600/8500001-1.jpg;2
+81;Lápis;https://epocacosmeticos.vteximg.com.br/arquivos/ids/221919-320-320/7896032692213.jpg?v=636269261783300000;2
+82;Borracha;https://www.papelex.com.br/media/catalog/product/cache/1/image/500x/0dc2d03fe217f8c83829496872af24a0/2/4/2465_3.jpg;1
+83;Papel Sulfite;https://assets.chamex.com.br/2020/09/Chamex-A4-90gA3-90g-1.png;4
+84;Canetinha;https://io2.convertiez.com.br/m/lojasmel/shop/products/images/2021130/medium/canetinha-hidrocor-wave-6-cores-tris_188561.jpg;8
+85;Giz de Cera;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosiOnTaRNV2yEzXIdR4IAbcCLkH8oVz_fW1lBVzhxBSguIUlzQc_FPXELH76PZhra3h8&usqp=CAU;6
+86;Cola em Bastão;https://alepapelaria.com.br/wp-content/uploads/2020/05/COLA-BAST%C3%83O-ECOLUTIONS-8G-21G-BIC.jpg;5
+87;Cola Branca;https://http2.mlstatic.com/D_NQ_NP_780902-MLB31707650448_082019-O.jpg;4
+88;Régua;https://w1.ezcdn.com.br/koralle/fotos/grande/809955fg1/regua-pvc-50cm-tr-50-trident.jpg;3
+89;Barbante;https://a-static.mlcdn.com.br/618x463/barbante-de-algodao-8-fios-300-metros-corbatex/lepok1/25933/89a5d6e1fe3c178b4d54608756de5627.jpg;2
+90;Lapiseira;https://images.tcdn.com.br/img/img_prod/715047/lapiseira_tecnica_npx_0_7_mm_molin_549_1_20201213232151.jpg;6
+91;Grafite;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sZYWEQPAR8zepWY2dSHrd-seearIP7mypNznzwqj2_8lvgAhYzue-M0_XVR9FC477sc&usqp=CAU;2
+92;Fita Adesiva;https://www.papelex.com.br/media/catalog/product/cache/1/image/500x/0dc2d03fe217f8c83829496872af24a0/1/0/x10957_1.jpg.pagespeed.ic.95ycAJAegq.jpg;2
+93;Etiqueta;https://cdn.awsli.com.br/600x450/81/81492/produto/3296640/90c100eccc.jpg;2
+94;Televisão 4k;https://http2.mlstatic.com/D_NQ_NP_898995-MLA43124705013_082020-O.jpg;5500
+95;Monitor;https://http2.mlstatic.com/D_NQ_NP_857243-MLA44865394256_022021-O.jpg;3500
+96;Microondas;https://a-static.mlcdn.com.br/618x463/microondas-philco-pmo33eb-32-litros-menu-fit-espelhado-110v/techshop/frnphc00076/3298c6e7a1a56c9e2eda078f1ee14378.jpg;1500
+97;Geladeira;https://sipolatti.vteximg.com.br/arquivos/ids/171809-550-570/Geladeira-Consul-CRE44AK-397-Litros-Frost-Free-Inverter-inox.png?v=637044168270030000;3800
+98;Impressora;https://a-static.mlcdn.com.br/618x463/impressora-multifuncional-hp-deskjet-ink-advantage-2774-jato-de-tinta-colorida-wi-fi-usb/magazineluiza/135301200/0b79be11f1cbb43e27294897322b72d5.jpg;400
+99;Ar Condicionado;https://media.gazetadopovo.com.br/2020/04/30175859/ar-condicionado-coronavirus-660x372.jpg;3890
+100;Banheira de Plástico;https://images.tcdn.com.br/img/img_prod/789130/mini_banheira_de_plastico_7145_2_20200812141151.jpg;26
